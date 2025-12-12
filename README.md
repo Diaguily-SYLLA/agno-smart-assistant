@@ -16,17 +16,17 @@ Multi-agent AI assistant powered by **Agno** and **Claude AI**.
 ### Conversation Assistant
 General-purpose chat and task execution with full context awareness.
 
-![Conversation Assistant](assets/screenshot-conversation.png)
+![Conversation Assistant](images/screenshot-conversation.png)
 
 ### Research Agent
 Specialized agent for research, analysis, and information retrieval.
 
-![Research Agent](assets/screenshot-research.png)
+![Research Agent](images/screenshot-research.png)
 
 ### Agno Assist
 RAG-powered documentation assistant with knowledge base integration.
 
-![Agno Assist](assets/screenshot-assist.png)
+![Agno Assist](images/screenshot-assist.png)
 
 ## 🏗️ Architecture
 

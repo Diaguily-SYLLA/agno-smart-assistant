@@ -1,0 +1,10 @@
+"""
+Utils Module
+
+Exports:
+- get_logger(): Get configured logger instance
+"""
+
+from utils.logger import get_logger
+
+__all__ = ["get_logger"]
